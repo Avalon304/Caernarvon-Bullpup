@@ -52,9 +52,9 @@
     </ammoBayHealth>
 	<variants>
 		<hull2>
-				<turret0>Turret_2_GB11_Caernarvon</turret0>
+				<turret0>Turret_1_GB11_Caernarvon</turret0>
 				<models>
-					<undamaged>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/normal/lod0/hull_02.model</undamaged>
+					<undamaged>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/normal/lod0/hull_01.model</undamaged>
 					<destroyed>vehicles/british/GB11_Caernarvon/crash/lod0/Hull.model</destroyed>
 					<exploded>vehicles/british/GB11_Caernarvon/crash/lod0/Hull.model</exploded>
 				</models>
@@ -93,7 +93,7 @@
 		</hull2>
 	</variants>
     <models>
-      <undamaged>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/normal/lod0/hull_01.model</undamaged>
+      <undamaged>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/normal/lod0/hull_02.model</undamaged>
       <destroyed>vehicles/british/GB11_Caernarvon/crash/lod0/Hull.model</destroyed>
       <exploded>vehicles/british/GB11_Caernarvon/crash/lod0/Hull.model</exploded>
     </models>
