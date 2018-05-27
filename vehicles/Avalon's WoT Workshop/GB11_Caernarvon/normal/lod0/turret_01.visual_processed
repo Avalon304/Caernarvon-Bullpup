@@ -97,6 +97,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_turret_01_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_turret_01_ID.dds</Texture>
+					</property>
+					<property>
 						alphaReference
 						<Int>0</Int>
 					</property>
@@ -163,6 +167,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_Action_X_turret_01_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_Action_X_turret_01_ID.dds</Texture>
+					</property>
+					<property>
 						alphaReference
 						<Int>	64	</Int>
 					</property>
@@ -199,6 +207,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_Mk3_turret_02_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_Action_X_turret_01_ID.dds</Texture>
 					</property>
 					<property>
 						g_useDetailMetallic

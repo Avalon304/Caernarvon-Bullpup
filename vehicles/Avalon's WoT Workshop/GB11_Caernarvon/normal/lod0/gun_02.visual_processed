@@ -93,6 +93,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_guns_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_guns_ID.dds</Texture>
+					</property>
+					<property>
 						g_useDetailMetallic
 						<Bool>true</Bool>
 					</property>
@@ -157,6 +161,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_guns_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_guns_ID.dds</Texture>
 					</property>
 					<property>
 						g_useDetailMetallic

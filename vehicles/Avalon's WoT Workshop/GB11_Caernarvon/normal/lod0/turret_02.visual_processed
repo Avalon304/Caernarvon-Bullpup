@@ -69,6 +69,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_turret_01_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_turret_01_ID.dds</Texture>
+					</property>
+					<property>
 						g_useDetailMetallic
 						<Bool>true</Bool>
 					</property>
@@ -139,6 +143,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_Action_X_turret_01_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_Action_X_turret_01_ID.dds</Texture>
+					</property>
+					<property>
 						g_useDetailMetallic
 						<Bool>	true	</Bool>
 					</property>
@@ -199,6 +207,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Centurion_Mk3_turret_02_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Strv_S1_hull_02_ID.dds</Texture>
 					</property>
 					<property>
 						g_useDetailMetallic
@@ -267,6 +279,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/M41_Bulldog_Turret_02_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/M41_Bulldog_Turret_02_ID.dds</Texture>
+					</property>
+					<property>
 						g_useDetailMetallic
 						<Bool>	true	</Bool>
 					</property>
@@ -323,6 +339,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/M18_Hellcat_turret_02_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Strv_S1_hull_02_ID.dds</Texture>
 					</property>
 					<property>
 						g_useDetailMetallic
@@ -391,6 +411,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/M48A1_turret_01_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Strv_S1_hull_02_ID.dds</Texture>
+					</property>
+					<property>
 						g_useDetailMetallic
 						<Bool>true</Bool>
 					</property>
@@ -455,6 +479,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Cromwell_Berlin_hull_01_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Strv_S1_hull_02_ID.dds</Texture>
 					</property>
 					<property>
 						g_useDetailMetallic

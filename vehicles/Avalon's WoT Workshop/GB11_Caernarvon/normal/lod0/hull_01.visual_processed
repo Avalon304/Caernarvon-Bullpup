@@ -141,6 +141,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_AX_hull_01_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Caernarvon_AX_hull_01_ID.dds</Texture>
+					</property>
+					<property>
 						g_useDetailMetallic
 						<Bool>true</Bool>
 					</property>
