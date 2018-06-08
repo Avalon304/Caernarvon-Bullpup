@@ -342,7 +342,7 @@
 					</property>
 					<property>
 						colorIdMap
-						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Strv_S1_hull_02_ID.dds</Texture>
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/M18_Hellcat_turret_02_ID.dds</Texture>
 					</property>
 					<property>
 						g_useDetailMetallic
@@ -482,7 +482,7 @@
 					</property>
 					<property>
 						colorIdMap
-						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Strv_S1_hull_02_ID.dds</Texture>
+						<Texture>vehicles/Avalon's WoT Workshop/GB11_Caernarvon/Cromwell_Berlin_hull_01_ID.dds</Texture>
 					</property>
 					<property>
 						g_useDetailMetallic
